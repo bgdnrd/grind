@@ -10,7 +10,7 @@ import (
 	"go/token"
 	"strings"
 
-	"golang.org/x/tools/go/types"
+	"go/types"
 
 	"github.com/jackspirou/grind/block"
 	"github.com/jackspirou/grind/grinder"
